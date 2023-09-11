@@ -18,11 +18,11 @@ The google colab file link for yolov8 object detection and tracking is provided 
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git
+git clone https://github.com/gurojaschadha/YOLOv8-object-detect.git
 ```
 - Goto the cloned folder.
 ```
-cd YOLOv8-DeepSORT-Object-Tracking
+cd YOLOv8-object-detect
 ```
 - Install the dependecies
 ```
@@ -38,7 +38,7 @@ cd ultralytics/yolo/v8/detect
 - Downloading the DeepSORT Files From The Google Drive 
 ```
 
-https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8?usp=sharing
+https://drive.google.com/drive/folders/1H0pNA0R4i8Zec7CG7Zdn8vK63POLPYwg
 ```
 - After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the yolo/v8/detect folder
 
